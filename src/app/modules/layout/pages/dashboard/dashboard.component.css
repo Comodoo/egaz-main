@@ -1,0 +1,34 @@
+/* table from boootsnipp  */
+
+.custab {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+
+.custab:hover {
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.first-tabel {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: gray;
+}
+
+#first-table {
+    border: 3px;
+    border-radius: 4px;
+    background-color: grey;
+}
+
+.dropdown-header {
+    font-weight: 700;
+}
+
+#action-link {
+    text-decoration: none;
+}
